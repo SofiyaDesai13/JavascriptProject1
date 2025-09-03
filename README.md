@@ -1,3 +1,3 @@
-# ReactProject1
+# JavascriptProject1
 
 test
